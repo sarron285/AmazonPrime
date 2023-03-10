@@ -86,7 +86,7 @@
                 android:backgroundTint="#12151E"
                 android:drawableEnd="@drawable/encontrar" />
 
-        </LinearLayout
+        </LinearLayout>
 
     </LinearLayout>
 
